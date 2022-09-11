@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("idea git add 2!");
         System.out.println("idea git add 3!");
         System.out.println("idea git add 4!");
+        System.out.println("pull commit!");
     }
 }
